@@ -2,7 +2,7 @@
 
 This document describes the transformation process of a prepared file of the UK retailer Iceland into a DSR compatible input.
 
-## Input Transformation
+## DSR Input Transformation
 
 The transformation process results in 9 DSR inputs, generated from 3 prepared files.
 
