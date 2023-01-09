@@ -1,0 +1,16 @@
+origin_organisation_number,business_organisation_number,organisation_location_id,location_function,geographic_location,attributes,created_timestamp
+1,23,Deeside,distribution location,,"{
+""depot_name"": ""Deeside""
+}",15/07/2022  11:50:00 +00:00
+1,23,Bells Hill,distribution location,,"{
+""depot_name"": ""Bells Hill""
+}",15/07/2022  11:50:00 +00:00
+1,23,Swindon,distribution location,,"{
+""depot_name"": ""Swindon""
+}",15/07/2022  11:50:00 +00:00
+1,23,Enfield,distribution location,,"{
+""depot_name"": ""Enfield""
+}",15/07/2022  11:50:00 +00:00
+1,23,Livingston,distribution location,,"{
+""depot_name"": ""Livingston""
+}",15/07/2022  11:50:00 +00:00
